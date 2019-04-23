@@ -1,0 +1,20 @@
+PODS:
+  - lottie-ios (2.5.3)
+  - ReachabilitySwift (4.3.1)
+
+DEPENDENCIES:
+  - lottie-ios (= 2.5.3)
+  - ReachabilitySwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - lottie-ios
+    - ReachabilitySwift
+
+SPEC CHECKSUMS:
+  lottie-ios: a50d5c0160425cd4b01b852bb9578963e6d92d31
+  ReachabilitySwift: 4032e2f59586e11e3b0ebe15b167abdd587a388b
+
+PODFILE CHECKSUM: 31c6bf498d162aeac298cd1e565990bb669a7094
+
+COCOAPODS: 1.6.1
